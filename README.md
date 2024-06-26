@@ -1,35 +1,31 @@
-Utilizar o vue-router para trabalhar com páginas
+# 🚀 Portfólio
 
-Identificar code smells
+Portfólio desenvolvido com Vue.
 
-Explicar as vantagens do gerenciamento do estado
+## 🎯 Objetivo do projeto
 
-Integrar estados dos componentes utilizando o vuex
+Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos com Vue.
 
-Justificar a necessidade de um estado global
+## 📝 Tecnologias
 
-Prototipar uma nova versão de uma aplicação existente
+- [Vue.js](https://vuejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Reconheça as diferenças entre as versões 2 e 3 do Vue
+## ⚙️ Instalação
 
-Explique as vantagens de se utilizar Vue.JS com TypeScript
+Para que este rode em sua máquina, siga os passos abaixo:
 
-Implemente a comunicação entre componentes filho -> pai
+```bash
+# Clone o repositório em alguma pasta em sua máquina
 
-Integre as variáveis de um componente com o seu template, utilizando two-way data binding
+Instale as dependências digitando no termimal:
+$ npm i
 
-Delimite as reponsabilidades de um componente
+Rode a aplicação no modo de desenvolvimento.
+$ npm run dev
 
-Elaborare uma aplicação utilizando Vue e TS
+Abra http://localhost:3000 no seu navegador para visualizar o projeto
+```
 
-Compreenda o funcionamento do Vuex
-
-Diferencie actions de mutations
-
-Entenda as vantagens da utilização de módulos no Vuex
-
-Implemente todo o ecosistema do Vuex
-
-Descubra as princip
-
-ais vantangens da Composition API
+## Licença
+Copyright © 2021 Raphael Figueira Lopes.
